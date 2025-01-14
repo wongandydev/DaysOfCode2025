@@ -8,3 +8,4 @@ My archive of leet code problems I have been doing in 2025
 4. [Remove Duplicates From Sorted Array II](https://github.com/wongandydev/DaysOfCode2025/blob/main/04-removeDuplicatesFromSortedArrayII.swift)
 5. [Majority Element](https://github.com/wongandydev/DaysOfCode2025/blob/main/05-majorityElement.swift)
 6. [Rotate Array](https://github.com/wongandydev/DaysOfCode2025/blob/main/06-rotateArray.swift)
+7. [Best Time to Buy and Sell Stock](https://github.com/wongandydev/DaysOfCode2025/blob/main/07-BestTimeToBuyAndSellStock.swift)
