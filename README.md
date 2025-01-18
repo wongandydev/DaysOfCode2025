@@ -11,3 +11,5 @@ My archive of leet code problems I have been doing in 2025
 7. [Best Time to Buy and Sell Stock](https://github.com/wongandydev/DaysOfCode2025/blob/main/07-BestTimeToBuyAndSellStock.swift)
 8. [Best Time to Buy and Sell Stock II](https://github.com/wongandydev/DaysOfCode2025/blob/main/08-bestTimeToBuyAndSellStockII.swift)
 9. [Jump Game](https://github.com/wongandydev/DaysOfCode2025/blob/main/09-jumpGame.swift)
+10. [Jump Game II](https://github.com/wongandydev/DaysOfCode2025/blob/main/10-jumpGameII.swift)
+11. [H-Index](https://github.com/wongandydev/DaysOfCode2025/blob/main/11-h-index.swift)
