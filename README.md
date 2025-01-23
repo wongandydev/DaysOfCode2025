@@ -15,3 +15,4 @@ My archive of leet code problems I have been doing in 2025
 11. [H-Index](https://github.com/wongandydev/DaysOfCode2025/blob/main/11-h-index.swift)
 12. [Maximum Subarray](https://github.com/wongandydev/DaysOfCode2025/blob/main/12-maximumSubarray.swift)
 13. [Insert Interval](https://github.com/wongandydev/DaysOfCode2025/blob/main/13-insertInterval.swift)
+14. [Two Sums](https://github.com/wongandydev/DaysOfCode2025/blob/main/14-twosums.swift)
