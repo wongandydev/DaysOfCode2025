@@ -14,3 +14,4 @@ My archive of leet code problems I have been doing in 2025
 10. [Jump Game II](https://github.com/wongandydev/DaysOfCode2025/blob/main/10-jumpGameII.swift)
 11. [H-Index](https://github.com/wongandydev/DaysOfCode2025/blob/main/11-h-index.swift)
 12. [Maximum Subarray](https://github.com/wongandydev/DaysOfCode2025/blob/main/12-maximumSubarray.swift)
+13. [Insert Interval](https://github.com/wongandydev/DaysOfCode2025/blob/main/13-insertInterval.swift)
