@@ -17,7 +17,7 @@ def peak_of_mountain_array(arr: List[int]) -> int:
             right = mid - 1 # we know this is the highest so far so we need right to mid we were just at -1 to see if that is the peak or it's some where else 
         else: 
             left = mid + 1 # we didn't find the peak so lets move up 
-
+    return boundary_index
 # My Attempt 
 def peak_of_mountain_array(arr: List[int]) -> int:
     # WRITE YOUR BRILLIANT CODE HERE

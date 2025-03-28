@@ -8,6 +8,39 @@
 # 🔹 Your goal:
 # Find the minimum number of 0s to flip to 1s to connect the two islands.
 
+
+## Failed again
+# New Attempt after a few days 
+
+def shortestBridge(grid): #[m x n]
+    # Mark 1 island
+    rows, cols = len(grid), len (grid[0])
+    queue = deque()
+
+    for r in range(rows):
+        for c in range(cols):
+            curr = grid[r][c]
+            if curr == "1":
+                queue.append((row, col)))
+                dfs(row, col)
+
+    def dfs(row, col):
+        directions = [[0,1], [0, -1], [1, 0], [-1, 0]]
+        if grid[row, col] == 1:
+            queue.append((row, col))
+            for dr, dc in directions:
+                dfs(row + dr, col + dc)
+        else:
+            return
+
+    # Expand until the secopnd island is readched 
+    while queue: 
+        c_row, c_col = queue.popleft()
+        directions = [[0,1], [0, -1], [1, 0], [-1, 0]]
+
+        for dr, dc in directions:
+
+         
 # DFS then BFS Approach 
 
 # Shortest Bridge My Attempt
